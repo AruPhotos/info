@@ -1,0 +1,33 @@
+body{
+  background-color: #333333;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.nav{
+  position: fixed;
+  width: 100%;
+}
+
+.out {
+  display: table;
+  width: 100vw;
+  height: 100vh;
+}
+
+.center {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.string {
+  color: #FFFFFF;
+}
